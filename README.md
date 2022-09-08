@@ -6,10 +6,6 @@
 ### &nbsp;
 
 ## *I. 프로젝트 계획 수립*
-### 프로젝트 진행 배경
-게임 판매 데이터들을 확인하여 다음 분기에 게임을 출시한다면 어떤 게임을 설계해야 할지 의사결정하는 프로젝트를 진행해보았다.
-
-
 ### 데이터 확인
 * **데이터 출처** : [Kaggle - Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
 * **데이터 설명** : 1980년부터 2020년까지 출시된 게임들의 판매량 데이터
