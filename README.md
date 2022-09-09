@@ -1,7 +1,7 @@
 # 다음 분기에 어떤 게임을 설계해야 할 것인가?
 * **개요** : 게임 판매량 데이터를 바탕으로 한 트렌드 파악 및 다음 분기 출시해야할 게임 설계
 * **진행 기간** : 2022. 02. 11 ~ 2022. 02. 17
-* **사용 스킬** : `pandas` `matplotlib` `seaborn` `scipy` `t-test`
+* **사용 스킬** : `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scipy`
 
 ### &nbsp;
 
