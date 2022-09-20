@@ -3,7 +3,7 @@
 
 ### &nbsp;
 
-## :computer: 사용 Skill
+## :books: 사용 Skill
 * **Google Colab**
 * **Pyhthon 3.7.13**
   * 전처리 & Feature Engineering : pandas, numy
