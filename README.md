@@ -16,11 +16,11 @@
 ### &nbsp;
 
 ## :file_folder: Contents
-:one: **프로젝트 계획 수립**  
-:two: **데이터 전처리 & Feature Engineering**  
-:three: **데이터 시각화 & 분석**  
-:four: **가설 생성 & 검정**  
-:five: **결론**
+* :one: **프로젝트 계획 수립**  
+* :two: **데이터 전처리 & Feature Engineering**  
+* :three: **데이터 시각화 & 분석**  
+* :four: **가설 생성 & 검정**  
+* :five: **결론**
 
 ### &nbsp;
 
