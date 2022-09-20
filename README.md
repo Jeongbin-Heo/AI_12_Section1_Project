@@ -15,7 +15,7 @@
 
 ### &nbsp;
 
-## :file_folder: Contents
+## :pushpin: Contents
 * :one: **프로젝트 계획 수립**  
 * :two: **데이터 전처리 & Feature Engineering**  
 * :three: **데이터 시각화 & 분석**  
